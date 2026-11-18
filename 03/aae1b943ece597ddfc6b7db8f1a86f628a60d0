@@ -1,0 +1,97 @@
+.gitignore
+  s_df948254553c41::t_8302544f0b82e1 1-48
+README.md
+  s_df948254553c41::t_00206caf39520b 1-29
+c/CMakeLists.txt
+  s_df948254553c41::t_ad0366ace44f4f 1-19
+c/Makefile
+  s_df948254553c41::t_69611ead0fcbdb 1-27
+c/hello_world.c
+  s_df948254553c41::t_33466e4f2b82b5 1-5
+c/hello_world.h
+  s_df948254553c41::t_d0a3e229bdb1ba 1-7
+c/main.c
+  s_df948254553c41::t_df18107f869cfa 1-7
+c/test_hello_world.c
+  s_df948254553c41::t_c547323f67ab18 1-15
+csharp/Codadvent.Tests/Codadvent.Tests.csproj
+  s_df948254553c41::t_ca75eb688aeacc 1-28
+csharp/Codadvent.Tests/HelloWorldTests.cs
+  s_df948254553c41::t_a1f37554ca125c 1-7
+csharp/Codadvent.sln
+  s_df948254553c41::t_08dc8a9e57920d 1-48
+csharp/Codadvent/Codadvent.csproj
+  s_df948254553c41::t_7a42dac7d081bf 1-10
+csharp/Codadvent/HelloWorld.cs
+  s_df948254553c41::t_740f6b5b9d67c4 1-6
+java/pom.xml
+  s_df948254553c41::t_83d6e41e92e35b 1-48
+java/src/main/java/codadvent/HelloWorld.java
+  s_df948254553c41::t_47ffa6b3e4202d 1-10
+java/src/test/java/codadvent/HelloWorldTest.java
+  s_df948254553c41::t_71de3e8f7f172e 1-12
+kotlin/pom.xml
+  s_df948254553c41::t_9a114a02dac63e 1-70
+kotlin/src/main/kotlin/codadvent/HelloWorld.kt
+  s_df948254553c41::t_eb50f21df7204b 1-5
+kotlin/src/test/kotlin/codadvent/HelloWorldTest.kt
+  s_df948254553c41::t_26c8a7c8f2696a 1-11
+php/composer.json
+  s_df948254553c41::t_bd74921cdfeb94 1-27
+php/phpunit.xml
+  s_df948254553c41::t_f7d4d980a924a8 1-14
+php/src/HelloWorld.php
+  s_df948254553c41::t_ce4bd353e7b2e7 1-13
+php/tests/HelloWorldTest.php
+  s_df948254553c41::t_d4cd5d5a38d122 1-9
+python/codadvent/hello_world.py
+  s_df948254553c41::t_f3edc80908677a 1-2
+python/pyproject.toml
+  s_df948254553c41::t_896bcf811aa0d2 1-11
+python/tests/test_hello_world.py
+  s_df948254553c41::t_9cd16824c427f7 1-5
+rust/Cargo.toml
+  s_df948254553c41::t_524efdce9d796b 1-6
+rust/src/hello_world.rs
+  s_df948254553c41::t_b2e80f6b0ebda3 1-3
+rust/src/lib.rs
+  s_df948254553c41::t_24b5863505d8cc 1-2
+rust/tests/hello_world_test.rs
+  s_df948254553c41::t_f56aeedbfbde27 1-6
+scala/build.sbt
+  s_df948254553c41::t_7f3428991fa0e3 1-7
+scala/project/build.properties
+  s_df948254553c41::t_646d43efe7bcdf 1
+scala/src/main/scala/codadvent/HelloWorld.scala
+  s_df948254553c41::t_fb07b498addd8e 1-4
+scala/src/test/scala/codadvent/HelloWorldSpec.scala
+  s_df948254553c41::t_fe9aec49149e7e 1-9
+typescript/package-lock.json
+  s_df948254553c41::t_08335e48735adb 1-1520
+typescript/package.json
+  s_df948254553c41::t_3d6fc5ecf74ede 1-16
+typescript/src/helloWorld.ts
+  s_df948254553c41::t_13a1c84986573c 1-8
+typescript/tests/helloWorld.test.ts
+  s_df948254553c41::t_f56d289802c2f8 1-8
+typescript/tsconfig.json
+  s_df948254553c41::t_aa84f97d1875c9 1-12
+typescript/vite.config.ts
+  s_df948254553c41::t_316196937c3992 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "03aae1b943ece597ddfc6b7db8f1a86f628a60d0",
+  "prompts": {},
+  "sessions": {
+    "s_df948254553c41": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8f0b21e4-4f70-423b-b9a0-3d25fcb5ae5a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
