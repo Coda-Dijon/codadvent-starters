@@ -1,0 +1,27 @@
+{
+  "name": "coda/codadvent",
+  "require": {
+    "php": ">=8.3"
+  },
+  "require-dev": {
+    "pestphp/pest": "^4.2"
+  },
+  "config": {
+    "allow-plugins": {
+      "pestphp/pest-plugin": true
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "Codadvent\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Codadvent\\Tests\\": "tests"
+    }
+  },
+  "scripts": {
+    "test": "vendor/bin/pest"
+  }
+}

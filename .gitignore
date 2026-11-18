@@ -1,0 +1,48 @@
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# C
+build/
+cmake-build-*/
+
+# C#
+bin/
+obj/
+*.user
+TestResults/
+
+# Java / Kotlin (Maven)
+target/
+*.class
+
+# Scala (sbt)
+.bsp/
+.metals/
+.bloop/
+project/target/
+project/project/
+
+# PHP
+vendor/
+composer.lock
+.phpunit.result.cache
+.phpunit.cache/
+
+# TypeScript
+node_modules/
+dist/
+coverage/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Rust
+Cargo.lock
