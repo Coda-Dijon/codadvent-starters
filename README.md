@@ -9,6 +9,7 @@ Chaque projet contient un `HelloWorld` dans le code de production (namespace `co
 | Langage | Dossier | Outils de test | Lancer les tests |
 |---|---|---|---|
 | C | [`c/`](c) | `assert.h` (Make ou CMake) | `make test` |
+| COBOL | [`cobol/`](cobol/README.md) | GnuCOBOL 3 (`cobc`) + programme de test (Make) | `make test` |
 | C# | [`csharp/`](csharp) | xUnit (.NET 10) | `dotnet test` |
 | Java | [`java/`](java) | JUnit 5 + AssertJ (Java 25) | `mvn test` |
 | PHP | [`php/`](php) | Pest | `composer install && composer test` |
@@ -20,6 +21,7 @@ Chaque projet contient un `HelloWorld` dans le code de production (namespace `co
 
 ## Le namespace `codadvent` selon le langage
 - **C** : pas de namespace, les fonctions sont préfixées : `codadvent_hello_world()`.
+- **COBOL** : pas de namespace, le sous-programme est préfixé : `CALL "CODADVENT-HELLO-WORLD" USING WS-RESULT`. Installation sous Windows, macOS et Linux : voir [`cobol/README.md`](cobol/README.md).
 - **C#** : `namespace Codadvent;` (PascalCase, convention .NET).
 - **Java** : `package codadvent;`.
 - **PHP** : `namespace Codadvent;` (PascalCase, convention PSR-4).
