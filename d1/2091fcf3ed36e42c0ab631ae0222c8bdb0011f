@@ -1,0 +1,30 @@
+README.md
+  s_95186b163189c1::t_17465de7d1bf66 24
+  s_95186b163189c1::t_53b1734c178867 12
+cobol/README.md
+  s_95186b163189c1::t_b6ca2aa73bf9c0 1-66
+cobol/Makefile
+  s_95186b163189c1::t_23f0e20ab20615 1-27
+cobol/src/hello-world.cbl
+  s_95186b163189c1::t_df40dfe92a9928 1-11
+cobol/src/main.cbl
+  s_95186b163189c1::t_16d6e3dce46e60 1-12
+cobol/tests/test-hello-world.cbl
+  s_95186b163189c1::t_7cda292daabd26 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d12091fcf3ed36e42c0ab631ae0222c8bdb0011f",
+  "prompts": {},
+  "sessions": {
+    "s_95186b163189c1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1008f877-78fe-46dc-8c68-83ba45e22572",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
