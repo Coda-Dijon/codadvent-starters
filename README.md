@@ -2,6 +2,8 @@
 
 Squelettes prêts à l'emploi pour les exercices du calendrier de l'Avent [codadvent](https://codadvent.fr/).
 
+![Codadvent cover](img/cover.webp)
+
 Chaque projet contient un `HelloWorld` dans le code de production (namespace `codadvent`) et **1 test automatisé** qui le vérifie : copiez le dossier de votre langage et remplacez le `HelloWorld` par votre exercice du jour.
 
 | Langage | Dossier | Outils de test | Lancer les tests |
